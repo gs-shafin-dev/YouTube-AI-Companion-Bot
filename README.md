@@ -1,0 +1,2 @@
+# YouTube AI Companion Bot
+An AI-powered live chat companion for YouTube streams. This bot joins your livestream’s chat, responds to viewers in real time, celebrates milestones, and acts as your interactive AI sidekick. Built in Python, it connects directly to YouTube Live Chat, supports custom commands, AI-powered replies, and simple viewer stats tracking. Perfect for streamers who want to make their broadcasts more engaging and fun.
